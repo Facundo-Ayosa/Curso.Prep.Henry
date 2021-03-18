@@ -14,7 +14,20 @@ Strings:
 Una string es un hilo que conecta letras, números, símbolos, espacios, y todo lo que puedas escribir en
 una computadora.
 
-Funciones :
+Funciones:
 
 Una función es una serie de instrucciones para hacer algo. Necesita de argumentos, que utiliza como
 herramientas y devuelve una sola variable.
+
+Declaraciones:
+
+Una declaración "if" es una pregunta que le hacemos a la máquina cuya respuesta es verdadero o falso.
+Podemos hacer que ésta declaración haga algo cuando la pregunta sea verdadera, y otra cosa diferente
+cuando la respuesta sea falsa, y podemos poner si lo necesitamos una declaración dentro de otra.
+
+Valores Booleanos:
+
+Una variable puede ser presentada como "booleano", poniendole el valor "true" o "false" al presentarla.
+Éste tipo de variable acepta sólamente esos 2 valores, Verdadero o falso, y se guarda en la computadora
+como 1 de 2 posibles números, 0 o 1. Gracias a que es fácil de guardar, usar booleanos es muy recomendable
+ya que utilizamos menos memoria.
