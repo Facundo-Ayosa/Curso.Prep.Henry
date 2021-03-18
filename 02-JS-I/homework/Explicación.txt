@@ -1,0 +1,20 @@
+Variables:
+
+Una variable es como una caja en donde podemos guardar cosas, podemos pegarle un nombre a la caja para 
+saber a primera vista qué hay adentro. Dentro de una computadora, es recomendable que este nombre siga
+unas reglas sencillas, ya que sin estas reglas, la computadora tendria complicaciones a la hora de
+encontrar o usar esa variable. éstas variables, dentro del código de la computadora, tienen que
+tener un nombre y haber sido "presentada" como variable, poniendo "var" antes del nombre de forma que
+quede "var <nombre>", y, si queremos, podemos agregarle un valor inmediatamente poniendo "=" y cualquier
+valor, teniendo en cuenta que si es un texto, necesita tener comillas al principio y al final de la palabra 
+u oración, y terminar la línea con un punto y coma, ";".
+
+Strings:
+
+Una string es un hilo que conecta letras, números, símbolos, espacios, y todo lo que puedas escribir en
+una computadora.
+
+Funciones :
+
+Una función es una serie de instrucciones para hacer algo. Necesita de argumentos, que utiliza como
+herramientas y devuelve una sola variable.
