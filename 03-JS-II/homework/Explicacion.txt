@@ -1,0 +1,18 @@
+For:
+
+Un bucle "for" es una herramienta que se utiliza para repetir una serie de acciones hasta que se cumpla
+una condición, normalmente usamos el for para evitar poner muchas veces una acción, o cuando no sabemos
+exactamente cuántas veces se va a tener que repetir.
+
+Operadores lógicos:
+
+Cuando nosotros ponemos una condición a cualquier herramienta dentro de nuestro código, a veces tenemos
+la necesidad de concatenar condiciones para que sólo haga algo si se cumpla una serie de éstas, o haga algo
+si se cumple una cosa u otra. Para ésto usamos los Operadores lógicos, "And", que es "&&" y "Or", que es "||".
+Éstos operadores lógicos pueden ser puestos uno atrás de otro, y el orden va a ser siempre de izquierda a
+derecha. El operador lógico "And" te devuelve "true" o "verdadero" cuando ambas condiciones son verdaderas,
+mientras que el operador lógico "Or" te devuelve "verdadero" cuando una de las dos condiciones es verdadero.
+Existe un operador lógico que es extremadamente útil en ocaciones muy específicas, que es el "!". la única función
+de éste operador es cambiar una condición, para que devuelva lo contrario, por ejemplo si queremos poner la 
+condición de que todos los números de 3 cífras, excepto 500, retornen verdadero, podríamos poner:
+if (numero > 99 && numero < 1000 && numero !== 500){}

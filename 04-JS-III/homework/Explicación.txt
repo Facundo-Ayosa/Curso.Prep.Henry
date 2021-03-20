@@ -1,0 +1,6 @@
+Arrays:
+
+Un array es una carpeta de valores, en donde a cada valor le corresponde una posición, ésta posición se calcula
+contando cuántos valores tiene por "delante" y restándole 1 al número que salga. Se le resta 1 porque la posición
+empieza desde el cero, mientras que al contar, siempre empezamos desde el 1. En un mismo array, pueden haber más de
+un solo tipo de variable.
