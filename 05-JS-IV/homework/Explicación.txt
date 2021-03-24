@@ -1,0 +1,27 @@
+Objetos:
+
+Un objeto es un tipo de variable en donde se pueden guardar más variables o funciones, con un
+nombre designado por vos. Podríamos decir que es una "carpeta" de variables. Éstas variables y
+funciones tienen otro nombre cuando están dentro de un objeto, las variables son llamadas 
+"Propiedades", y las funciones, "Métodos". Para utilizar estas propiedades y métodos, tenemos que
+saber cómo llamarlo, ya que no podemos sólamente poner el nombre de la variable esperando que nos 
+responda con la 3er propiedad. Para ésto tenemos 2 formas: Notación de puntos, y notación de Corchetes.
+La notación de puntos existe hasta fuera de los objetos, en los arrays, por ejemplo, si queremos
+introducir una variable, utilizamos la notación de puntos para decidir dónde ponerlo, si ponemos
+".push" o ".unshift" podemos poner la nueva variable al final o al principio del array en cuestión.
+Lo que estamos haciendo es llamar a un método que reside dentro de todos los Arrays. Cuando trabajamos
+con objetos, hacemos lo mismo, llamar el método o la variable por el nombre asignado. Por un camino
+similar, tenemos la Notación de Corchete. Funciona básicamente igual, llama el método o la variable
+por el nombre asignado entre corchetes. En un Array, usamos ésta notación para acceder a los valores,
+pero en vez de nombres usamos números asignados a la ubicación del valor. En un Objeto tenemos más
+libertad, ya que podemos, por ejemplo, usar una variable dentro de los corchetes cuyo valor sea el 
+nombre designado de lo que queremos que nos devuelva. Normalmente usamos la notación de puntos para
+acceder a un método o variable específico.
+
+Bucle "for...in":
+
+El bucle "for in" funciona mas o menos igual a un "for", en el sentido de que repite las Instrucciones
+una cantidad de veces específica. La diferencia es que para el "for" necesitas que esa cantidad de
+veces sea un número y proveerlo vos, ya sea diréctamente poniéndolo en la condición, o haciendo referencia
+a una variable. En el "for...in" esa cantidad de veces es la cantidad de propiedades dentro del
+objeto que menciones después del "in".

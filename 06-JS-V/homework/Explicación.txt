@@ -1,0 +1,12 @@
+Prototype:
+
+un "Prototype", o "Prototipo", son propiedades privadas de los Objetos. Cada prototipo hereda propiedades
+del Objeto Object y cada objeto que vos crees dentro de javascript, hereda propiedades tanto del
+prototipo como del objeto Object.
+
+_Constructors_ de clases:
+
+Un Constructor es una herramienta que utilizamos para crear objetos a partir una clase, sólo puede
+haber 1 dentro de la clase, pero pueden haber clases prototipo que derivan de clases más grandes,
+heredando algunas o todas sus propiedades, mientras que se agregan propiedades propias de la
+clase-prototipo.
